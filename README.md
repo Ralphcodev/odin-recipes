@@ -1,2 +1,2 @@
 # odin-recipes
-created a directory and named as recipes
+Created new directory with 3 food recipes
